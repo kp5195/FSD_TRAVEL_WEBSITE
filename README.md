@@ -1,4 +1,4 @@
-# GoTravel - a MERN Stack Travel Agency Website
+# MERN Stack Travel Agency Website
 
 ### Backend 
 
